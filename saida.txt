@@ -1,0 +1,20 @@
+Pessoa: nome: 0 pai: b mae a idade = 30
+Pessoa: nome: 1 pai: d mae c idade = 30
+Pessoa: nome: 2 pai: f mae e idade = 30
+Pessoa: nome: 3 pai: h mae g idade = 30
+Pessoa: nome: 4 pai: 0 mae 1 idade = 20
+Pessoa: nome: 5 pai: 2 mae 3 idade = 20
+Pessoa: nome: 6 pai: 4 mae 5 idade = 2
+Pessoa: nome: 7 pai: 4 mae 5 idade = 7
+6 e irmao de 7
+6 e o mais novo
+7 e irmao de 6
+6 e o mais novo
+6 e neto de 0
+7 e neto de 0
+6 e neto de 1
+7 e neto de 1
+6 e neto de 2
+7 e neto de 2
+6 e neto de 3
+7 e neto de 3
